@@ -49,7 +49,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 position: absolute;
-top: 420px;
+top: 350px;
 left: 130px;
 }
 .heading{
@@ -57,7 +57,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 position: absolute;
-top: 450px;
+top: 380px;
 left: 130px;
 font-size: 250%;
 font-weight: bolder;
@@ -68,7 +68,7 @@ font-weight: bolder;
     background-color: #f5204b;
     color: white;
     position: absolute;
-    top: 520px;
+    top: 470px;
     left: 130px;
     border: none;
 }
