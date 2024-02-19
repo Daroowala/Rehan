@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    height: 60px;
+    
+}
+.logo{
+    display: flex;
+    margin: 0px 0px 0px -250px;
+    
+}
+.links1{
+    text-decoration: none;
+    color: black;
+    margin: 0px 0px 0px 40px;
+    position: relative;
+    top: -29px;
+    left: 180px;
+}
+.links2{
+    text-decoration: none;
+    color: red;
+    margin: 0px 0px 0px 40px;
+    position: relative;
+    top: -29px;
+    left: 180px;
+}
+.hero{
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 1355px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banar{
+    display: flex;
+    height: 550px;
+    width: 100%;
+}
+.thejoy{
+
+}
