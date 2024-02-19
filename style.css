@@ -44,6 +44,21 @@
     height: 550px;
     width: 100%;
 }
-.thejoy{
-
+.joy{
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 420px;
+left: 130px;
+}
+.heading{
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 450px;
+left: 130px;
+font-size: 250%;
+font-weight: bolder;
 }
